@@ -1,12 +1,13 @@
 Take-Home-Challenge Expensify - The steps for this project and outline of progress/struggles -
 
+heroku --- https://arcane-thicket-88602.herokuapp.com/
+
+TO LOGIN
 USE expensifytest@mailinator.com
     hire_me
 TO LOGIN
 
-This took me longer than I planned, and I was a little disappointed in myself that I took more than a week. In my defense, there were three days that I could only work for an hour or so because of other obligations. I was given the assignment on Tuesday March 30th and I finished on Thursday night March 8th (still have to do Heroku deployment Friday morning). I had a lot of fun and learned a lot. I had no prior experience with PHP. I thought I had a little bit, I mean I had created basic expressions before, but I quickly learned I knew nothing. Which was challenging and fun. Therefore, the first three days, I studied PHP. I really wanted to understand what everything did. I have Ruby/Rails experience and this was nothing like it besides being object oriented. It took me longer to complete this because I didn't want to write any code without truly understanding what every expression did. It was easy to find PHP manuals and example code and situations that helped me along the way.
 
-The other big challenge for me was incorporating javaScript, HTML and CSS and working it all together. It was a great learning experience, so thank you.
 
 
 I HAD NOT USED AJAX SINCE ATTENDING THE FLATIRON SCHOOL, SO I HAD STUDY THIS AS WELL FOR A REFRESHER. I CREATED THE PROXY.PHP FILE AS SUGGESTED. FIRST I CREATED AN INDEX.HTML FILE AND CREATED THE FORMS AND TABLE AS FOLLOWING THE PROVIDED OUTLINE. I THEN CREATED A PROXY.PHP FILE AND AS I WAS STUDYING AND LEARNING THIS AS I WAS CODING, I READ A LOT ABOUT INCLUDING THE PHP WITHIN THE HTML, OR THE OPPOSITE ACTUALLY, AND SO I CHANGED THE HTML FILE TO INDEX.PHP. THIS TOOK ME A COUPLE OF DAYS TO COMPLETE AND GET IT RIGHT WITH THE ECHOS AND DOTS, BUT I LEARNED AND NOW CAN SAY I UNDERSTAND THIS PROCESS WITH CONFIDENCE.
@@ -21,7 +22,7 @@ I STRUGGLED A LOT WITH GETTING THE TRANSACTION FORM TO FUNCTION PROPERLY. I SPEN
 
 I ACTUALLY HAD A LOT OF ISSUES WITH MAMP AND APACHE AND SERVER ISSUES, BUT IT TOOK ME AWHILE TO REALIZE THIS IS WHAT THE MAIN ISSUE WAS AND I KEPT CHANGING MY CODE, THINKING I WASN'T DOING IT CORRECTLY. THIS TOOK UP FOUR DAYS OF STRUGGLE. FINALLY, I REALIZED IT WAS THE SERVER AND INSTEAD BEGAN WORKING WITH php -S localhost:8000. USING THIS FROM THE TERMINAL COMMAND LINE AND THEN LOCALHOST:8000 IN THE BROWSER, ALLOWED ME TO WORK MORE EFFICIENTLY. (I asked Rocio for help when I was stuck for days before realizing it was a server issue, she is amazing)
 
-I ALSO STRUGGLED WITH THE FormData OBJECT METHOD. I COULDN'T GET IT TO WORK AND EVENTUALLY USED Serialize INSTEAD IN JavaScript. I spent a couple of hours in two different days, really trying to get formData to work. 
+I ALSO STRUGGLED WITH THE FormData OBJECT METHOD. I COULDN'T GET IT TO WORK AND EVENTUALLY USED Serialize INSTEAD IN JavaScript. I spent a couple of hours in two different days, really trying to get formData to work.
 
 THE FINAL AND MOST FUN PART FOR ME IS THE CSS STYLING (I COME FROM AN ARTS BACKGROUND, SO DESIGN IS MY RAINBOW OF SKITTLES). I SPENT A LOT OF TIME, TWO DAYS ON THIS, WANTING TO REALLY DO A GREAT JOB.
 
@@ -34,3 +35,4 @@ THANK YOU - XT :)
 
 -------------------------------------------------------------
 10) When done, please email your code for review as a Zip file as well as a detailed write-up of how long it took for each task, instructions on how we can access your hosted solution, what problems you encountered, how you overcame them, etc. Please bundle up your code as a ZIP archive before uploading it. Please make sure to send the above to me and the engineer originally cc'd here.
+# API-Login_app-PHP
